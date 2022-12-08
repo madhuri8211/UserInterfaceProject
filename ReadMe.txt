@@ -1,4 +1,4 @@
-Step 1: Open the ShuffleandSort folder in Visual Studio Code
+Step 1: Open the UserInterfaceProject-main folder in Visual Studio Code
 
 Step 2: Click on index.html
 
